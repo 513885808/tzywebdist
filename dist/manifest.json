@@ -114,14 +114,14 @@
   "vendors.js": "static/web/js/vendors.349d3ff9.js",
   "vendors.css": "static/web/css/vendors.033c336c.css",
   "static/web/img/confirm.png": "static/web/img/confirm.png",
-  "static/web/img/nee.png": "static/web/img/nee.png",
-  "static/web/img/sq.png": "static/web/img/sq.png",
-  "static/web/img/loadingImg.gif": "static/web/img/loadingImg.gif",
-  "static/web/img/ufo.png": "static/web/img/ufo.png",
-  "static/web/img/taologo.png": "static/web/img/taologo.png",
   "static/web/img/i-test.png": "static/web/img/i-test.png",
   "static/web/img/i-qa.png": "static/web/img/i-qa.png",
   "static/web/img/i-serve.png": "static/web/img/i-serve.png",
+  "static/web/img/nee.png": "static/web/img/nee.png",
+  "static/web/img/time.png": "static/web/img/time.png",
+  "static/web/img/sq.png": "static/web/img/sq.png",
+  "static/web/img/ufo.png": "static/web/img/ufo.png",
+  "static/web/img/taologo.png": "static/web/img/taologo.png",
   "static/web/img/equode.png": "static/web/img/equode.png",
   "static/web/img/equode2.png": "static/web/img/equode2.png",
   "static/web/img/beian.png": "static/web/img/beian.png",
@@ -174,5 +174,5 @@
   "static/web/img/noListIcon.png": "static/web/img/noListIcon.png",
   "static/web/img/loading.gif": "static/web/img/loading.gif",
   "static/web/img/pay.png": "static/web/img/pay.png",
-  "static/web/img/time.png": "static/web/img/time.png"
+  "static/web/img/loadingImg.gif": "static/web/img/loadingImg.gif"
 }
