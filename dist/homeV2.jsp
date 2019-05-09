@@ -10,7 +10,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-</head>
+<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/homeV2.6fd3e25a.css" rel="stylesheet"></head>
 <body>
 	<!-- 保存province属性 -->
 	<input type="hidden" name="province" value="${user.province.code}">
@@ -282,7 +282,7 @@
 	<!------->
 	<section class="bannerRotation rel">
 		<h1 class="bannerRotationH1">招生主任面对面
-			<a href="/teacher/teacherList" class="link fr more" target="_blank">
+			<a href="/infoV3/directorList" class="link fr more" target="_blank">
 			<span class="vm afix">查看更多</span>
 			</a>
 		</h1>
@@ -341,5 +341,5 @@
 	<script>
 		window.__INITDATA__ = ${examInfo}
 	</script>
-	<script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script><script type="text/javascript" src="/static/web/js/homeV2.a18f0a4c9d1fbefef325.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.3371a074.js"></script><script type="text/javascript" src="/static/web/js/homeV2.f2e69b88.js"></script></body>
 </html>

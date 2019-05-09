@@ -7,7 +7,7 @@ l<%@include file="/WEB-INF/views/include/taglib.jsp"%><%@ taglib uri="http://jav
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-</head>
+<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/sampleEvaluate.bd04755c.css" rel="stylesheet"></head>
 <body>
 	<!-- 公共头部 -->
 	<%@ include file = "/partials/_header.jsp" %>
@@ -380,5 +380,5 @@ l<%@include file="/WEB-INF/views/include/taglib.jsp"%><%@ taglib uri="http://jav
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script><script type="text/javascript" src="/static/web/js/sampleEvaluate.b6e9a3c4e6faf8ca1065.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.3371a074.js"></script><script type="text/javascript" src="/static/web/js/sampleEvaluate.65a0709a.js"></script></body>
 </html>
