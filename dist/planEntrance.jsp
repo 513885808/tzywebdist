@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/planEntrance.467b6849.css" rel="stylesheet"></head>
+</head>
 <body class='planEntrancePage'>
 	<!-- 公共头部 -->
 	<%@ include file = "/partials/_header.jsp" %>
@@ -50,5 +50,5 @@
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="/static/web/js/vendors.349d3ff9.js"></script><script type="text/javascript" src="/static/web/js/planEntrance.3e9e762a.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script><script type="text/javascript" src="/static/web/js/planEntrance.c83380c3e6c751fc84d8.js"></script></body>
 </html>

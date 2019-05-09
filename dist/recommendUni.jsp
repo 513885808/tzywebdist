@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/recommendUni.cfa18b63.css" rel="stylesheet"></head>
+</head>
 <body>
 	<!-- 公共头部 -->
 	<%@ include file = "/partials/_header.jsp" %>
@@ -42,7 +42,7 @@
 			</h3>
 			<div class="collegeWrap container ovh">
 		<ul class="collegeList clearfix">
-				<c:forEach var="college" items="${list.uniList}">
+				<c:forEach var="college" items="${list.unilist}">
 				<li class="college" title="${college.name}">
 				   		<a href="${college.href}" target="_blank">
 							<img src="${college.imgUrl}" class="responsive">
@@ -62,5 +62,5 @@
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="/static/web/js/vendors.349d3ff9.js"></script><script type="text/javascript" src="/static/web/js/recommendUni.d57ed873.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script><script type="text/javascript" src="/static/web/js/recommendUni.83f3c0c917b0a9c59779.js"></script></body>
 </html>

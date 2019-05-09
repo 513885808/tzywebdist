@@ -9,7 +9,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/user.59dcae96.css" rel="stylesheet"></head>
+</head>
 <body>
 	<!-- 公共头部 -->
 	<%@ include file = "/partials/_header.jsp" %>
@@ -112,5 +112,5 @@
   	<script type="text/javascript" src="//wacai-file.b0.upaiyun.com/assets/js/handlers.js"></script>
 	<![endif]-->
 	
-	<script type="text/javascript" src="/static/web/js/vendors.349d3ff9.js"></script><script type="text/javascript" src="/static/web/js/user.6fc887b0.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script><script type="text/javascript" src="/static/web/js/user.161b9582b5629050c1ca.js"></script></body>
 </html>

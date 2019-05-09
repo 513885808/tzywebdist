@@ -10,7 +10,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/homeV2.4b4f74db.css" rel="stylesheet"></head>
+</head>
 <body>
 	<!-- 保存province属性 -->
 	<input type="hidden" name="province" value="${user.province.code}">
@@ -279,7 +279,26 @@
 			</div>
 		</section>				   
 	</c:if>
-	
+	<!------->
+	<section class="bannerRotation rel">
+		<h1 class="bannerRotationH1">招生主任面对面
+			<a href="/teacher/teacherList" class="link fr more" target="_blank">
+			<span class="vm afix">查看更多</span>
+			</a>
+		</h1>
+		<div class="bannerRShow bannerLoading" id="bannerpic">
+			 <ul id="bannerList" class="bannerList clearfix">
+				<c:forEach var="list" items="${directorList}">
+				   <li class="picRSlide" >	 
+				   <c:forEach var="banner" items="${list.uniList}">
+				   <a href="${banner.link}" target="_blank" var="banner"><img src="${banner.imgurl}"><p>${banner.ddesc}</p></a>
+				  	</c:forEach>
+				   </li>
+				</c:forEach>
+			 </ul>
+		</div>
+	</section>
+	<!------->
 	<section class="ovh s-feature">
 		<div class="container ovh">
 			<div class="featureList clearfix">
@@ -298,7 +317,7 @@
 			</div>
 		</div>
 	</section>
-
+    
 	<!-- <section class="ovh s-coop">
 	  	<div class="container ovh tc">
 	  		<h2>
@@ -322,5 +341,5 @@
 	<script>
 		window.__INITDATA__ = ${examInfo}
 	</script>
-	<script type="text/javascript" src="/static/web/js/vendors.349d3ff9.js"></script><script type="text/javascript" src="/static/web/js/homeV2.dac2bb01.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script><script type="text/javascript" src="/static/web/js/homeV2.a18f0a4c9d1fbefef325.js"></script></body>
 </html>

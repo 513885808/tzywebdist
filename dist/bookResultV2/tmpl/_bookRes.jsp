@@ -1,4 +1,4 @@
-<head><link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"></head><%@include file="/WEB-INF/views/include/taglib.jsp"%><%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@include file="/WEB-INF/views/include/taglib.jsp"%><%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page contentType="text/html; charset=UTF-8" %>
 
 <div class="wellWrapper tabs" id="bookResultTab">
@@ -207,4 +207,4 @@
 								</c:choose>
 							</section>
 						</div>
-					</div><script type="text/javascript" src="/static/web/js/vendors.349d3ff9.js"></script>
+					</div><script type="text/javascript" src="/static/web/js/vendors.d1589cc2028855d87869.js"></script>
