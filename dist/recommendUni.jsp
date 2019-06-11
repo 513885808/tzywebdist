@@ -42,7 +42,7 @@
 			</h3>
 			<div class="collegeWrap container ovh">
 		<ul class="collegeList clearfix">
-				<c:forEach var="college" items="${list.unilist}">
+				<c:forEach var="college" items="${list.uniList}">
 				<li class="college" title="${college.name}">
 				   		<a href="${college.href}" target="_blank">
 							<img src="${college.imgUrl}" class="responsive">
@@ -62,5 +62,5 @@
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="/static/web/js/vendors.3371a074.js"></script><script type="text/javascript" src="/static/web/js/recommendUni.1cec7861.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.a172723a.js"></script><script type="text/javascript" src="/static/web/js/recommendUni.1cec7861.js"></script></body>
 </html>
