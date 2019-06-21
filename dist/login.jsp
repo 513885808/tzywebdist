@@ -9,7 +9,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/login.bcd8f186.css" rel="stylesheet"></head>
+</head>
 <body>
 	<!-- 所有页面内容必须包裹在mainContainer里面 -->
 	<div class="mainContainer">
@@ -78,5 +78,5 @@
 	<div class="bBar tc">
 		Copyrights © 2014-2016 浙江日报新闻发展有限公司版权所有 ｜ 服务热线：0571-85311211
 	</div>
-	<script type="text/javascript" src="/static/web/js/vendors.a172723a.js"></script><script type="text/javascript" src="/static/web/js/login.f4549690.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.170dbd03e7ef7d584d54.js"></script><script type="text/javascript" src="/static/web/js/login.8badd6b6fbf6fa801491.js"></script></body>
 </html>

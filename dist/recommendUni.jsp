@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/recommendUni.cfa18b63.css" rel="stylesheet"></head>
+</head>
 <body>
 	<!-- 公共头部 -->
 	<%@ include file = "/partials/_header.jsp" %>
@@ -62,5 +62,5 @@
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="/static/web/js/vendors.a172723a.js"></script><script type="text/javascript" src="/static/web/js/recommendUni.1cec7861.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.170dbd03e7ef7d584d54.js"></script><script type="text/javascript" src="/static/web/js/recommendUni.677f712a05d483df6425.js"></script></body>
 </html>

@@ -9,7 +9,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/user.59dcae96.css" rel="stylesheet"></head>
+</head>
 <body>
 	<!-- 公共头部 -->
 	<%@ include file = "/partials/_header.jsp" %>
@@ -104,13 +104,11 @@
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="//wacai-file.b0.upaiyun.com/assets/js/webuploader.min.js"></script>
-	
-
+	<script type="text/javascript" src="//fex.baidu.com/webuploader/js/webuploader.js"></script>
 	<!--[if lte IE 9]>
 	<script type="text/javascript" src="//wacai-file.b0.upaiyun.com/assets/js/swfupload.js"></script>
   	<script type="text/javascript" src="//wacai-file.b0.upaiyun.com/assets/js/handlers.js"></script>
 	<![endif]-->
 	
-	<script type="text/javascript" src="/static/web/js/vendors.a172723a.js"></script><script type="text/javascript" src="/static/web/js/user.1b98d0f8.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.170dbd03e7ef7d584d54.js"></script><script type="text/javascript" src="/static/web/js/user.0d473f29b744af99a777.js"></script></body>
 </html>

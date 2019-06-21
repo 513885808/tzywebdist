@@ -9,7 +9,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>淘志愿</title>
-<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/error.355935e0.css" rel="stylesheet"></head>
+</head>
 <body>
 	
 	<!-- 所有页面内容必须包裹在mainContainer里面 -->
@@ -39,5 +39,5 @@
 	</div>
 	<script src="//libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
 
-	<script type="text/javascript" src="/static/web/js/vendors.a172723a.js"></script><script type="text/javascript" src="/static/web/js/error.21d4e801.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.170dbd03e7ef7d584d54.js"></script><script type="text/javascript" src="/static/web/js/error.73f0597ee6c8bc32aa01.js"></script></body>
 </html>

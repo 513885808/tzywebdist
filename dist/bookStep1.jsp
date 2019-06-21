@@ -9,7 +9,7 @@
 	<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<%@ include file = "/partials/_meta.jsp" %>
 	<title>高考志愿</title>
-	<link href="/static/web/css/vendors.033c336c.css" rel="stylesheet"><link href="/static/web/css/bookStep1.0e17472c.css" rel="stylesheet"></head>
+	</head>
 <body>
 	
 	<!-- 公共头部 -->
@@ -168,5 +168,5 @@
 	</div>
 	<!-- 公共尾部 -->
 	<%@ include file = "/partials/_footer.jsp" %>
-	<script type="text/javascript" src="/static/web/js/vendors.a172723a.js"></script><script type="text/javascript" src="/static/web/js/bookStep1.82fc5030.js"></script></body>
+	<script type="text/javascript" src="/static/web/js/vendors.170dbd03e7ef7d584d54.js"></script><script type="text/javascript" src="/static/web/js/bookStep1.e280f7bc697c96c1cfde.js"></script></body>
 </html>
